@@ -1,0 +1,2 @@
+tabs: ['contracts/Escrow.sol']
+terminals: ['yarn install']
